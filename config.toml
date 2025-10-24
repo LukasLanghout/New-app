@@ -1,0 +1,10 @@
+[server]
+runOnSave = true
+port = 8501
+
+[browser]
+gatherUsageStats = false    
+
+git remote add origin https://github.com/LukasLanghout/New-app.git
+git branch -M main
+git push -u origin main
